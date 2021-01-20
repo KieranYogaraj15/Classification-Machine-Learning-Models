@@ -1,7 +1,7 @@
 #Import the Diabetes Dataset
 import pandas as pd
 
-diabetes = pd.read_csv("diabetes.csv", sep=",")
+diabetes = pd.read_csv("Diabetes Dataset.csv", sep=",")
 
 
 #Data Exploration
